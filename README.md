@@ -5,7 +5,7 @@
 
 2. Folder Introduction:
    
- (1) The codes under the "PICS" folder is used to extract the corresponding  "Time Phase Diagram" (TVP) and "Frequency Phase Diagram" (FVP) from the PFD files of the Pulsar candidates.
+ (1) The codes under the "PICS" folder is used to extract the corresponding  "Time Phase Diagram" (TVP) and "Frequency Phase Diagram" (FVP) from the PFD files of the pulsar candidates.
 
  (2) The codes under the "DCA" folder is used for feature level fusion in multi-modal systems. By training the model, the transformation matrices of two sets of modal features are obtained.
 
